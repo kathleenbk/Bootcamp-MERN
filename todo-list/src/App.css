@@ -1,0 +1,26 @@
+.checked {
+  text-decoration: line-through;
+}
+.task {
+  margin-top: 10px;
+  justify-content: center;
+  
+  display: flex;
+}
+.main-container{
+  text-align: center;
+}
+p{
+  padding: 0;
+  font-size: 14pt;
+}
+.checkbox{
+  margin-left:10px;
+}
+.button{
+  margin-left:10px;
+  height: 25px
+}
+.bold{
+  font-weight: bold;
+}
