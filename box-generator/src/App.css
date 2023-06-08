@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box-container {
+  display: flex;
+}
+.box {
+  margin-right: 10px;
+}
+
+.main-container {
+  text-align: center;
+  padding: 50px;
+  
+}
+.margins {
+  margin-left: 5px;
+}
+.button {
+  padding: 10px;
+  font-weight: bold;
+  background-color: azure;
+  border-radius: 5px;
+}
+.bold {
+  font-weight: bold;
+  font-size: 20pt;
+}
+.input {
+  font-size: 20pt;
+}
